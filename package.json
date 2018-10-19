@@ -1,5 +1,5 @@
 {
-  "name": "hubot-file-brain",
+  "name": "@throneless/hubot-file-brain",
   "version": "0.1.0",
   "description": "A simple hubot brain for development that saves to a json file. Derived from file-brain.coffee by dustyburwell.",
   "main": "brain.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jheretic/hubot-file-brain.git"
+    "url": "git+https://github.com/throneless-tech/hubot-file-brain.git"
   },
   "keywords": [
     "hubot",
     "hubot-scripts",
     "hubot-brain"
   ],
-  "author": "Josh King <jking@chambana.net>",
+  "author": "Josh King <josh@throneless.tech>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/jheretic/hubot-file-brain/issues"
+    "url": "https://github.com/throneless-tech/hubot-file-brain/issues"
   },
-  "homepage": "https://github.com/jheretic/hubot-file-brain#readme"
+  "homepage": "https://github.com/throneless-tech/hubot-file-brain#readme"
 }
