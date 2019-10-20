@@ -1,8 +1,11 @@
 {
   "name": "@throneless/hubot-file-brain",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple hubot brain for development that saves to a json file. Derived from file-brain.coffee by dustyburwell.",
   "main": "brain.js",
+  "files": [
+    "brain.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
